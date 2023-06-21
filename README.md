@@ -1,1 +1,1 @@
-# Refactoring-sikgu
+# Refactoring-sikgu form JS to TS
